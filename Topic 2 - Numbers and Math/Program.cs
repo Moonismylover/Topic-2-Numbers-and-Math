@@ -16,6 +16,7 @@
                divided is /
                power is ^
                square root is Math.Sqrt() but for ths you need to use the module System
+               % is the modulus operator. It gives you the remainder of a division.
             */
 
             // Prints the number of hens and roosters
